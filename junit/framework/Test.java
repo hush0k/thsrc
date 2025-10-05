@@ -1,0 +1,13 @@
+package junit.framework;
+
+public interface Test {
+  int countTestCases();
+  
+  void run(TestResult paramTestResult);
+}
+
+
+/* Location:              C:\Users\vchteam\Desktop\testpasrt\TH1122LDTEST.jar!\junit\framework\Test.class
+ * Java compiler version: 5 (49.0)
+ * JD-Core Version:       1.1.3
+ */
